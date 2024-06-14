@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMene.unity
+    guid: eb399d8a2bae25b44a2f56cfafc510b3
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: 3425e55ecb1b56d4390763465cd34f0a
+  - enabled: 1
+    path: Assets/Scenes/TutorialCopleted.unity
+    guid: dc754c576a5c30243ab4403a887cfaca
+  - enabled: 1
+    path: Assets/Scenes/Maze.unity
+    guid: ee94dc801cf434148b0abaa4049d03d1
+  - enabled: 1
+    path: Assets/Scenes/You Lost.unity
+    guid: 7baeaf5a595b5684b8451776fa2a58b4
+  - enabled: 1
+    path: Assets/Scenes/You Won.unity
+    guid: d1576e8fe973a854096bbf73b0e85f69
+  m_configObjects: {}
